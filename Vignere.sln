@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vignere", "Vignere.csproj", "{B81F3575-867F-4674-B28D-FFE613A7BBA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B81F3575-867F-4674-B28D-FFE613A7BBA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81F3575-867F-4674-B28D-FFE613A7BBA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81F3575-867F-4674-B28D-FFE613A7BBA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81F3575-867F-4674-B28D-FFE613A7BBA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F464E67-CE7E-4FCF-A82F-06B7C8FBA16F}
+	EndGlobalSection
+EndGlobal
